@@ -4,11 +4,11 @@
 
 
 Desenvolvido metódo para que seja feito um controle financeiro, dessa forma deve ser iniciado no terminal:
-yarn
-yarn init -y
-yarn add nodemon
-yarn dev
-e logo após acessar o localhost:3333
+yarn <br>
+yarn init -y<br>
+yarn add nodemon<br>
+yarn dev<br>
+e logo após acessar o localhost:3333<br>
 
 ---
 

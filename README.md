@@ -2,6 +2,17 @@
 
 ---
 
+
+Desenvolvido metódo para que seja feito um controle financeiro, dessa forma deve ser iniciado no terminal:
+yarn
+yarn init -y
+yarn add nodemon
+yarn dev
+e logo após acessar o localhost:3333
+
+---
+
+
 ### Requisitos
 
 - [X] Deve ser possível criar umma conta
